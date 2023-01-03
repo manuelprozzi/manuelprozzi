@@ -10,7 +10,8 @@ Currently I'm working as a web and search results quality rater, trained as full
 * HTML / CSS
 * MySQL
 
-- 🔭 I’m currently working on this page. 
+
+
 - 🌱 I’m currently learning UX design 
 - 📫 How to reach me: manuelprozzi@gmail.com 
 - 😄 Pronouns: He/Him 
