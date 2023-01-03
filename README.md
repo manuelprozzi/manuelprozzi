@@ -16,7 +16,7 @@ Currently I'm working as a web and search results quality rater, trained as full
 * Colaborative project made as part of the Full Stack Web Developer course from Digital House, (some of it is in spanish): https://github.com/LucianoFabrizio/grupo_11_StationGame
 
 ##
-
 - 🌱 I’m currently learning UX design 
 - 📫 How to reach me: manuelprozzi@gmail.com 
 - 😄 Pronouns: He/Him 
+- 🤓 I'm interested in: the AR/VR future of user interface and experience
