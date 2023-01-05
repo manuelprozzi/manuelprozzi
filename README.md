@@ -11,7 +11,7 @@ Currently I'm working as a web and search results quality rater, trained as full
 * MySQL
 
 ## Examples of my work: 
-* My portfolio, which is a work in progress: https://github.com/manuelprozzi/portfolio
+* A React project, with two languges support: https://github.com/manuelprozzi/portfolio
 * A simple ecomm website made as part of the Modern Javascript Bootcamp Course from Colt Steele: https://github.com/manuelprozzi/ecomm
 * Colaborative project made as part of the Full Stack Web Developer course from Digital House, (some of it is in spanish): https://github.com/LucianoFabrizio/grupo_11_StationGame
 
